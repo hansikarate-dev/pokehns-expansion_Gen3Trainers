@@ -7205,14 +7205,14 @@ Noctowl @ Sitrus Berry
 Level: 64
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Psychic
-- Air Slash
+- Wing Attack
 - Hypnosis
 - Dream Eater
 
 Skarmory
 Level: 63
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Stealth Rock
+- Spikes
 - Drill Peck
 - Metal Sound
 - Steel Wing
@@ -7220,34 +7220,34 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 Swellow @ Focus Band
 Level: 63
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Endeavor
+- Endure
 - Double Team
-- Brave Bird
+- Wing Attack
 - Steel Wing
 
-Honchkrow
+Murkrow
 Level: 64
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Mimic
-- Dark Pulse
-- Air Slash
-- Nasty Plot
+- Faint Attack
+- Haze
+- Icy Wind
 
 Pidgeot
 Level: 65
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- TailWind
+- Double Team
 - Aerial Ace
-- Extreme Speed
+- Steel Wing
 - Sand Attack
 
 Pelipper
 Level: 68
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Roost
-- Brine
+- Aerial Ace
+- Surf
 - Steel Wing
-- Hurricane
+- Double Team
 
 === TRAINER_BUGSY_1_HNS ===
 Name: BUGSY
@@ -7264,14 +7264,14 @@ Pineco
 Level: 15
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Pin Missile
-- Headbutt
-- Rollout
-- Harden
+- Take Down
+- SelF Destruct
+- Protect
 
 Ledian
 Level: 15
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Thunder Punch
+- Tackle
 - Comet Punch
 - Supersonic
 - Reflect
@@ -7281,7 +7281,7 @@ Level: 16
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Quick Attack
 - Fury Cutter
-- U Turn 
+- Leer 
 - Pursuit
 
 === TRAINER_BUGSY_2_HNS ===
@@ -7298,40 +7298,40 @@ Items: Full Restore / Full Restore
 Ledian @ Focus Band
 Level: 64
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Drain Punch
-- Swords Dance
-- Bug Buzz
+- Giga Drain
+- Agility
 - Baton Pass
+- Light Screen
 
 Forretress
 Level: 63
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Iron Defense
-- Rapid Spin
-- Gyro Ball
-- Earthquake
+- Protect
+- Explosion
+- Pin Missile
+- Double Edge
 
-Yanmega @ Berry Juice
+Yanma @ Berry Juice
 Level: 63
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Air Slash
+- Aerial Ace
+- Double Team
 - Screech
-- U Turn
-- Night Slash
+- Signal Beam
 
 Scizor
 Level: 64
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Bullet Punch
-- X Scissor
-- Iron Head
+- Metal Claw
+- Fury Cutter
+- Agility
 - Swords Dance
 
 Shedinja
 Level: 65
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Phantom Force
-- Bug Buzz
+- Shadow Ball
+- Silver Wind
 - Grudge
 - Sand Attack
 
@@ -7339,9 +7339,9 @@ Scyther @ Scope Lens
 Level: 65
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Slash
-- X Scissor
-- Air Slash
-- Roost
+- Pursuit
+- Wing Attack
+- Swords Dance
 
 === TRAINER_WHITNEY_1_HNS ===
 Name: WHITNEY
@@ -7357,9 +7357,9 @@ Items: Super Potion / Potion
 Clefairy
 Level: 20
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
-- Headbutt
-- Charm
-- Sweet Kiss
+- Double Slap
+- Encore
+- Sing
 - Metronome
 
 Teddiursa
@@ -7453,7 +7453,7 @@ Ability: Levitate
 Level: 24
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Hypnosis
-- Nightmare
+- Lick
 - Curse
 - Night Shade
 
@@ -7462,15 +7462,15 @@ Level: 23
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Swift
 - Hypnosis
-- Nightmare
+- Astonish
 - Leer
 
 Misdreavus
 Level: 24
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Shadow Ball
-- Pain Split
-- Perish Song
+- Mean Look
+- Confuse Ray
 - Psywave
 
 Gengar @ Sitrus Berry
@@ -9454,16 +9454,15 @@ Items: Potion
 Zubat
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Absorb
+- Leech Life
 - Supersonic
-- Poison Sting
 - Astonish
 
 Larvitar
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Bite
-- Rock Throw
+- Leer
 - Screech
 - Sandstorm
 
@@ -9490,7 +9489,7 @@ Larvitar
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Bite
-- Rock Throw
+- Rock Slide
 - Screech
 - Sandstorm
 
@@ -9506,17 +9505,17 @@ Golbat
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Bite
-- Confuse Ray
-- Poison Sting
-- Air Cutter
+- Supersonic
+- Leech Life
+- Wing Attack
 
 Bayleef
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Mega Drain
-- Magical Leaf
+- Reflect
+- Razor Leaf
 - Tackle
-- Leech Seed
+- Synthesis
 
 === TRAINER_RIVAL_CHIKORITA_4_HNS ===
 Name: {B_RIVAL_NAME}
@@ -9774,16 +9773,15 @@ Items: Potion
 Zubat
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Absorb
+- Leech Life
 - Supersonic
-- Poison Sting
 - Astonish
 
 Larvitar
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Bite
-- Rock Throw
+- Leer
 - Screech
 - Sandstorm
 
@@ -9810,14 +9808,14 @@ Larvitar
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Bite
-- Rock Throw
+- Rock Slide
 - Screech
 - Sandstorm
 
 Weepinbell
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Razor Leaf
+- Vine Whip
 - Growth
 - Sleep Powder
 - Stun Spore
@@ -9826,14 +9824,14 @@ Golbat
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Bite
-- Confuse Ray
-- Poison Sting
-- Air Cutter
+- Supersonic
+- Leech Life
+- Wing Attack
 
 Quilava
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Flame Wheel
+- Ember
 - Dig
 - Quick Attack
 - Smokescreen
@@ -9854,7 +9852,7 @@ Level: 39
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Thrash
 - Rock Slide
-- Screech
+- Scary Face
 - Bite
 
 Victreebel
@@ -10094,16 +10092,15 @@ Items: Potion
 Zubat
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Absorb
+- Leech Life
 - Supersonic
-- Poison Sting
 - Astonish
 
 Larvitar
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Bite
-- Rock Throw
+- Leer
 - Screech
 - Sandstorm
 
@@ -10112,7 +10109,7 @@ Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Scratch
 - Rage
-- Bubble Beam
+- Water Gunk
 - Leer
 
 === TRAINER_RIVAL_TOTODILE_3_HNS ===
@@ -10130,7 +10127,7 @@ Larvitar
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Bite
-- Rock Throw
+- Rock Slide
 - Screech
 - Sandstorm
 
@@ -10138,7 +10135,7 @@ Houndour
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Ember
-- Bite
+- Howl
 - Smog
 - Roar
 
@@ -10146,17 +10143,17 @@ Golbat
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Bite
-- Confuse Ray
-- Poison Sting
-- Air Cutter
+- Supersonic
+- Leech Life
+- Wing Attack
 
 Croconaw
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Bite
 - Ice Punch
-- Bubble Beam
-- Mud Slap
+- Water Gun
+- Rage
 
 === TRAINER_RIVAL_TOTODILE_4_HNS ===
 Name: {B_RIVAL_NAME}
