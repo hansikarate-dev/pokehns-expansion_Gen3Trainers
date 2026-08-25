@@ -3843,10 +3843,18 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
             "Attack that steals half\n"
             "the damage inflicted."),
         .effect = EFFECT_ABSORB,
-        .power = 60,
+        #elif B_UPDATED_MOVE_DATA >= GEN_7
+            .power = 80,
+        #else
+            .power = 20,
+        #endif
         .type = TYPE_BUG,
         .accuracy = 100,
-        .pp = 10,
+        #elif B_UPDATED_MOVE_DATA >= GEN_7
+            .pp = 10,
+        #else
+            .pp = 15,
+        #endif
         .target = TARGET_SELECTED,
         .priority = 0,
         .category = DAMAGE_CATEGORY_PHYSICAL,
