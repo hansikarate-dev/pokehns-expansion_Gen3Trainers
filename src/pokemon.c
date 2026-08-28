@@ -1357,12 +1357,6 @@ static const enum NationalDexOrder sObtainableToNationalOrder[OBTAINABLE_DEX_COU
     OBTAINABLE_TO_NATIONAL(BELDUM),
     OBTAINABLE_TO_NATIONAL(METANG),
     OBTAINABLE_TO_NATIONAL(METAGROSS),
-    OBTAINABLE_TO_NATIONAL(REGIROCK),
-    OBTAINABLE_TO_NATIONAL(REGICE),
-    OBTAINABLE_TO_NATIONAL(REGISTEEL),
-    OBTAINABLE_TO_NATIONAL(REGIELEKI),
-    OBTAINABLE_TO_NATIONAL(REGIDRAGO),
-    OBTAINABLE_TO_NATIONAL(REGIGIGAS),
     OBTAINABLE_TO_NATIONAL(LATIAS),
     OBTAINABLE_TO_NATIONAL(LATIOS),
     OBTAINABLE_TO_NATIONAL(KYOGRE),
@@ -1424,7 +1418,20 @@ static const enum NationalDexOrder sObtainableToNationalOrder[OBTAINABLE_DEX_COU
     OBTAINABLE_TO_NATIONAL(TAUROS_PALDEA),
     OBTAINABLE_TO_NATIONAL(WOOPER_PALDEA),
     OBTAINABLE_TO_NATIONAL(CLODSIRE),
+    // Other
+    OBTAINABLE_TO_NATIONAL(REGIROCK),
+    OBTAINABLE_TO_NATIONAL(REGICE),
+    OBTAINABLE_TO_NATIONAL(REGISTEEL),
+    OBTAINABLE_TO_NATIONAL(REGIELEKI),
+    OBTAINABLE_TO_NATIONAL(REGIDRAGO),
+    OBTAINABLE_TO_NATIONAL(REGIGIGAS),
     OBTAINABLE_TO_NATIONAL(ARCEUS),
+    OBTAINABLE_TO_NATIONAL(TAPU_KOKO),
+    OBTAINABLE_TO_NATIONAL(TAPU_LELE),
+    OBTAINABLE_TO_NATIONAL(TAPU_BULU),
+    OBTAINABLE_TO_NATIONAL(TAPU_FINI),
+    OBTAINABLE_TO_NATIONAL(NOIBAT),
+    OBTAINABLE_TO_NATIONAL(NOIVERN),
 };
 
 #endif
@@ -5378,14 +5385,8 @@ u8 GiveCapturedMonToPlayer(struct Pokemon *mon)
     if (i >= GetMaxPartySize())
         return CopyMonToPC(mon);
 
-    if (IsOneTypeChallengeActive())
-    {
-        u8 typeChallenge = gSaveBlock3Ptr->challengeSettings.tx_Challenges_OneTypeChallenge;
-        u16 species = GetMonData(mon, MON_DATA_SPECIES);
-        if (GetSpeciesType(species, 0) != typeChallenge
-         && GetSpeciesType(species, 1) != typeChallenge)
-            return CopyMonToPC(mon);
-    }
+    if (!DoesSpeciesPassOneTypeChallenge(GetMonData(mon, MON_DATA_SPECIES)))
+        return CopyMonToPC(mon);
 
     CopyMon(&gPlayerParty[i], mon, sizeof(*mon));
     gPlayerPartyCount = i + 1;
@@ -8078,6 +8079,9 @@ u16 GetBattleBGM(void)
             return MUS_HG_VS_ROCKET;
         case TRAINER_CLASS_ELITE_FOUR:
             return MUS_VS_ELITE_FOUR;
+        case TRAINER_CLASS_ELITE_FOUR_HNS:
+            // GSC/HGSS reuse the Johto Gym Leader theme for the Elite Four.
+            return MUS_HG_VS_GYM_LEADER;
         case TRAINER_CLASS_CHAMPION_FRLG:
         case TRAINER_CLASS_DEVELOPER_HNS:
             return MUS_RG_VS_CHAMPION;
@@ -9719,11 +9723,7 @@ u32 GiveScriptedMonToPlayer(struct Pokemon *mon, u8 slot)
         }
         else
         {
-            u8 typeChallenge = gSaveBlock3Ptr->challengeSettings.tx_Challenges_OneTypeChallenge;
-            u16 species = GetMonData(mon, MON_DATA_SPECIES);
-            if (IsOneTypeChallengeActive()
-             && GetSpeciesType(species, 0) != typeChallenge
-             && GetSpeciesType(species, 1) != typeChallenge)
+            if (!DoesSpeciesPassOneTypeChallenge(GetMonData(mon, MON_DATA_SPECIES)))
             {
                 sentToPc = CopyMonToPC(mon);
             }
