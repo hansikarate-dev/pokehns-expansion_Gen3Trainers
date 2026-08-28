@@ -1163,7 +1163,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
             "A toxic attack with barbs,\n"
             "etc., that may poison."),
         .effect = EFFECT_HIT,
-        .power = 30,
+        .power = 15,
         .type = TYPE_POISON,
         .accuracy = 100,
         .pp = 35,
