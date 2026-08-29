@@ -220,7 +220,11 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
         .zMove = MOVE_NEVER_ENDING_NIGHTMARE,
         .maxMove = MOVE_MAX_PHANTASM,
         .teraTypeRGBValue = RGB(12, 10, 16),
-        .damageCategory = DAMAGE_CATEGORY_SPECIAL,
+        #if B_UPDATED_MOVE_DATA >= GEN_4
+            .damageCategory = DAMAGE_CATEGORY_SPECIAL,
+        #else
+            .damageCategory = DAMAGE_CATEGORY_PHYSICAL,
+        #endif
         .paletteTMHM = gItemIconPalette_GhostTMHM,
         .useSecondTypeIconPalette = FALSE,
         .isSpecialCaseType = FALSE,
@@ -429,7 +433,11 @@ const struct TypeInfo gTypesInfo[NUMBER_OF_MON_TYPES] =
         .zMove = MOVE_BLACK_HOLE_ECLIPSE,
         .maxMove = MOVE_MAX_DARKNESS,
         .teraTypeRGBValue = RGB(6, 5, 8),
-        .damageCategory = DAMAGE_CATEGORY_PHYSICAL,
+        #if B_UPDATED_MOVE_DATA >= GEN_4
+            .damageCategory = DAMAGE_CATEGORY_PHYSICAL,
+        #else
+            .damageCategory = DAMAGE_CATEGORY_SPECIAL,
+        #endif
         .paletteTMHM = gItemIconPalette_DarkTMHM,
         .useSecondTypeIconPalette = TRUE,
         .isSpecialCaseType = FALSE,
