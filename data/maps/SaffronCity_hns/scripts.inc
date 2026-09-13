@@ -2,23 +2,8 @@ SaffronCity_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, SaffronCity_EventScript_CityEnter
 	.byte 0
 
-SaffronCity_OnFrame::
-	map_script_2 VAR_SAFFRON_CITY_STATE, 0,  SaffronCity_EventScript_BaobaCall
-	.2byte 0
-
 SaffronCity_EventScript_CityEnter::
 	setflag FLAG_VISITED_SAFFRON_CITY
-	end
-
-SaffronCity_EventScript_BaobaCall::
-	lock
-	setspeaker SaffronCity_Text_BaobaName
-	pokenavcall SaffronCity_Text_Baoba
-	waitmessage
-	delay 30
-	setflag FLAG_SAFARI_ZONE_EAST_EXPANSION
-	setvar VAR_SAFFRON_CITY_STATE, 1
-	release
 	end
 
 SaffronCity_Text_BaobaName:
@@ -163,8 +148,8 @@ SaffronCity_Text_Youngster1:
 	.string "time makes me sorta anxious.$"
 
 SaffronCity_Text_Youngster2:
-	.string "There's a place called TRAINER\n"
-	.string "HOUSE in VIRIDIAN where trainers\l"
+	.string "There's a place called the CONTEST\n"
+	.string "HALL in VIRIDIAN where trainers\l"
 	.string "gather from all over the place.$"
 
 SaffronCity_Text_Lass2:
