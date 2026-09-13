@@ -7180,15 +7180,14 @@ Pidgey
 Level: 8
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Tackle
-- Sand Attack
-- Quick Attack
+- Mud Slap
 
-Noctowl @ Sitrus Berry
+Pidgeotto @ Sitrus Berry
 Level: 11
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Tackle
 - Mud Slap
-- Peck
+- Gust
 
 === TRAINER_FALKNER_2_HNS ===
 Name: FALKNER
@@ -7199,7 +7198,7 @@ Music: Hg Boy 1
 Double Battle: No
 AI: Basic Trainer
 Mugshot: Light Blue
-Items: Full Restore / Full Restore
+Items: Full Restore / Full Restore 
 
 Noctowl @ Sitrus Berry
 Level: 64
@@ -7260,23 +7259,21 @@ AI: Basic Trainer
 Mugshot: Green
 Items: Potion / Potion
 
-Pineco
-Level: 15
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Pin Missile
-- Take Down
-- SelF Destruct
-- Protect
-
-Ledian
+Metapod
 Level: 15
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Tackle
-- Comet Punch
-- Supersonic
-- Reflect
+- String Shot
+- Harden
 
-Scyther @ Berry Juice
+Kakuna
+Level: 15
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Poison Sting
+- String Shot
+- Harden
+
+Scyther @ Sitrus Berry
 Level: 16
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Quick Attack
@@ -7359,16 +7356,8 @@ Level: 20
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 - Double Slap
 - Encore
-- Sing
+- Mimic
 - Metronome
-
-Teddiursa
-Level: 20
-IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
-- Fury Swipes
-- Fake Tears
-- Lick
-- Mud Slap
 
 Miltank @ Sitrus Berry
 Level: 21
@@ -7448,30 +7437,32 @@ AI: Basic Trainer
 Mugshot: Purple
 Items: Super Potion / Super Potion
 
+Gastly
+Ability: Levitate
+Level: 21
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Spite
+- Lick
+- Curse
+- Mean Look
+
 Haunter
 Ability: Levitate
-Level: 24
+Level: 21
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Hypnosis
-- Lick
+- Mimic
 - Curse
 - Night Shade
 
-Stantler
+Haunter
+Ability: Levitate
 Level: 23
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Swift
-- Hypnosis
-- Astonish
-- Leer
-
-Misdreavus
-Level: 24
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Shadow Ball
+- Spite
 - Mean Look
-- Confuse Ray
-- Psywave
+- Mimic
+- Night Shade
 
 Gengar @ Sitrus Berry
 Ability: Levitate
@@ -7554,36 +7545,28 @@ AI: Basic Trainer
 Mugshot: Light Blue
 Items: Super Potion / Super Potion
 
+Seel
+Level: 29
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Headbutt
+- Aurora Beam
+- Icy Wind
+- Rest
+
 Dewgong
 Level: 31
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Surf
+- Headbutt
 - Aurora Beam
-- Rain Dance
-- Rest
-
-Sneasel
-Level: 32
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Faint Attack
-- Fury Swipes
-- Reflect
 - Icy Wind
-
-Jynx
-Level: 31
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Ice Punch
-- Psychic
-- Rain Dance
-- Lovely Kiss
+- Rest
 
 Piloswine @ Sitrus Berry
 Level: 33
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Take Down
-- Earthquake
-- Rock Smash
+- Icy Wind
+- Fury Attack
+- Mist
 - Blizzard
 
 === TRAINER_PRYCE_2_HNS ===
@@ -7656,44 +7639,28 @@ AI: Basic Trainer
 Mugshot: Light Blue
 Items: Full Restore / Full Restore
 
-Cloyster
-Level: 33
+Seel
+Level: 32
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Surf
-- Spikes
+- Headbutt
 - Aurora Beam
-- Rain Dance
-
-Sneasel
-Level: 34
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Faint Attack
-- Fury Swipes
-- Reflect
-- Ice Punch
-
-Jynx
-Level: 33
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Ice Punch
-- Psychic
-- Rain Dance
-- Lovely Kiss
+- Icy Wind
+- Rest
 
 Dewgong
 Level: 34
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Surf
+- Headbutt
 - Aurora Beam
-- Snore
+- Icy Wind
 - Rest
 
 Piloswine @ Sitrus Berry
 Level: 35
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Take Down
-- Earthquake
-- Rock Smash
+- Icy Wind
+- Fury Attack
+- Mist
 - Blizzard
 
 === TRAINER_PRYCE_1_3_HNS ===
@@ -7707,45 +7674,29 @@ AI: Basic Trainer
 Mugshot: Light Blue
 Items: Full Restore / Full Restore
 
-Cloyster
-Level: 37
+Seel
+Level: 35
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Surf
-- Spikes
+- Headbutt
 - Aurora Beam
-- Rain Dance
-
-Sneasel
-Level: 37
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Faint Attack
-- Fury Swipes
-- Reflect
-- Blizzard
-
-Jynx
-Level: 37
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Ice Punch
-- Psychic
-- Shadow Ball
-- Lovely Kiss
+- Icy Wind
+- Rest
 
 Dewgong
 Level: 37
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Surf
+- Headbutt
 - Aurora Beam
-- Snore
+- Icy Wind
 - Rest
 
 Piloswine @ Sitrus Berry
 Level: 38
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Take Down
-- Earthquake
-- Rock Smash
-- Ice Fang
+- Icy Wind
+- Fury Attack
+- Mist
+- Blizzard
 
 === TRAINER_JASMINE_1_HNS ===
 Name: JASMINE
@@ -7758,44 +7709,28 @@ AI: Basic Trainer
 Mugshot: Yellow
 Items: Super Potion / Super Potion
 
-Skarmory
-Level: 35
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Sand Attack
-- Drill Peck
-- Swagger
-- Steel Wing
-
-Corsola
-Level: 35
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Rain Dance
-- Surf
-- Recover
-- Rock Blast
-
-Magneton
+Magnemite
 Level: 35
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Thunderbolt
-- Swift
-- Rain Dance
-- Thunder
+- Supersonic
+- Sonic Boom
+- Thunder Wave
 
-Scizor @ Focus Band
+Magnemite
+Level: 35
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Thunderbolt
+- Supersonic
+- Sonic Boom
+- Thunder Wave
+
+Steelix @ Sitrus Berry
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Fury Cutter
-- Metal Claw
-- Agility
-- Swords Dance
-
-Steelix @ Quick Claw
-Level: 36
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Body Slam
-- Earthquake
-- Rock Slide
+- Screech
+- Sandstorm
+- Rock Throw
 - Iron Tail
 
 === TRAINER_JASMINE_2_HNS ===
@@ -7868,44 +7803,28 @@ AI: Basic Trainer
 Mugshot: Yellow
 Items: Full Restore / Full Restore
 
-Skarmory
-Level: 35
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Sand Attack
-- Drill Peck
-- Swagger
-- Steel Wing
-
-Corsola
-Level: 35
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Rain Dance
-- Surf
-- Recover
-- Rock Blast
-
-Magneton
+Magnemite
 Level: 35
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Thunderbolt
-- Swift
-- Rain Dance
-- Thunder
+- Supersonic
+- Sonic Boom
+- Thunder Wave
 
-Scizor @ Focus Band
+Magnemite
+Level: 35
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Thunderbolt
+- Supersonic
+- Sonic Boom
+- Thunder Wave
+
+Steelix @ Sitrus Berry
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Fury Cutter
-- Metal Claw
-- Agility
-- Swords Dance
-
-Steelix @ Quick Claw
-Level: 36
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Body Slam
-- Earthquake
-- Rock Slide
+- Screech
+- Sandstorm
+- Rock Throw
 - Iron Tail
 
 === TRAINER_JASMINE_1_3_HNS ===
@@ -7919,44 +7838,28 @@ AI: Basic Trainer
 Mugshot: Yellow
 Items: Full Restore / Full Restore
 
-Skarmory
+Magnemite
 Level: 37
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Sand Attack
-- Drill Peck
-- Swagger
-- Steel Wing
-
-Corsola
-Level: 37
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rain Dance
-- Surf
-- Recover
-- Rock Blast
-
-Magneton
-Level: 37
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Thunderbolt
-- Swift
-- Rain Dance
-- Thunder
+- Supersonic
+- Sonic Boom
+- Thunder Wave
 
-Scizor @ Focus Band
-Level: 38
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Fury Cutter
-- Metal Claw
-- Agility
-- Swords Dance
+Magnemite
+Level: 37
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Thunderbolt
+- Supersonic
+- Sonic Boom
+- Thunder Wave
 
-Steelix @ Quick Claw
+Steelix @ Sitrus Berry
 Level: 38
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Body Slam
-- Earthquake
-- Rock Slide
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Screech
+- Sandstorm
+- Rock Throw
 - Iron Tail
 
 === TRAINER_CHUCK_1_HNS ===
@@ -7970,31 +7873,15 @@ AI: Basic Trainer
 Mugshot: Orange
 Items: Super Potion / Super Potion
 
-Hitmontop
-Level: 30
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Triple Kick
-- Rolling Kick
-- Dig
-- Pursuit
-
 Primeape
 Level: 29
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Low Kick
+- Leer
 - Karate Chop
-- Ice Punch
+- Fury Swipes
 - Rage
 
-Sudowoodo
-Level: 30
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Rock Slide
-- Thunder Punch
-- Low Kick
-- Flail
-
-Poliwrath @ Black Belt
+Poliwrath @ Sitrus Berry
 Level: 31
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Hypnosis
@@ -8072,39 +7959,15 @@ AI: Basic Trainer
 Mugshot: Orange
 Items: Full Restore / Full Restore
 
-Hitmontop
-Level: 35
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Triple Kick
-- Rolling Kick
-- Dig
-- Pursuit
-
-Sudowoodo
-Level: 35
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Rock Slide
-- Thunder Punch
-- Low Kick
-- Flail
-
 Primeape
-Level: 34
+Level: 35
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Low Kick
+- Leer
 - Karate Chop
-- Ice Punch
+- Fury Swipes
 - Rage
 
-Pinsir
-Level: 35
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Brick Break
-- Fury Cutter
-- Vice Grip
-- Harden
-
-Poliwrath @ Black Belt
+Poliwrath @ Sitrus Berry
 Level: 36
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Hypnosis
@@ -8123,43 +7986,19 @@ AI: Basic Trainer
 Mugshot: Orange
 Items: Full Restore / Full Restore
 
-Hitmontop
-Level: 37
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Triple Kick
-- Rolling Kick
-- Dig
-- Pursuit
-
-Sudowoodo
-Level: 37
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rock Slide
-- Thunder Punch
-- Low Kick
-- Flail
-
 Primeape
 Level: 37
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Low Kick
-- Brick Break
-- Ice Punch
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Leer
+- Karate Chop
+- Fury Swipes
 - Rage
 
-Pinsir
-Level: 37
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Brick Break
-- Fury Cutter
-- Strength
-- Swords Dance
-
-Poliwrath @ Black Belt
+Poliwrath @ Sitrus Berry
 Level: 38
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Ice Punch
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Hypnosis
+- Mind Reader
 - Surf
 - Dynamic Punch
 
@@ -8177,39 +8016,31 @@ Items: Full Restore / Full Restore
 Dragonair
 Level: 42
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Surf
+- Slam
 - Thunder Wave
-- Thunderbolt
-- Flamethrower
 - Dragon Breath
 
-Gyarados @ Focus Band
-Level: 43
+Dragonair
+Level: 42
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Bite
-- Waterfall
-- Thrash
+- Thunder Wave
+- Thunderbolt
+- Slam
+- Dragon Breath
+
+Dragonair
+Level: 42
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Thunder Wave
+- Slam
 - Ice Beam
+- Dragon Breath
 
-Lapras @ Chesto Berry
-Level: 43
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Surf
-- Ice Beam
-- Body Slam
-- Rest
-
-Dunsparce @ Sitrus Berry
-Level: 44
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Glare
-- Ancient Power
-- Rest
-- Take Down
-
-Kingdra @ Leftovers
+Kingdra @ Sitrus Berry
 Level: 45
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Agility
+- Smoke Screen
 - Surf
 - Hyper Beam
 - Dragon Breath
@@ -8287,50 +8118,42 @@ Items: Full Restore / Full Restore
 Golem @ Quick Claw
 Level: 66
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Curse
-- Stone Edge
-- Body Slam
+- Defense Curl
+- Rock Slide
+- Rollout
 - Earthquake
-
-Aerodactyl @ Hard Stone
-Level: 66
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Ancient Power
-- Sky Attack
-- Earthquake
-- Fire Fang
 
 Kabutops @ Scope Lens
 Level: 66
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Surf
-- Ancient Power
-- Night Slash
-- Swords Dance
+- Slash
+- Endure
+- Giga Drain
 
 Omastar @ Focus Band
 Level: 66
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Ancient Power
-- Ice Beam
+- Bite
+- Protect
 - Surf
-- Toxic
+- Spike Cannon
 
-Relicanth @ Hard Stone
+Rhydon @ Hard Stone
 Level: 66
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Hydro Pump
+- Fury Attack
+- Scary Face
+- Earthquake
+- Horn Drill
+
+Onix @ Quick Claw
+Level: 66
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Bind
 - Rock Slide
-- Curse
-- Thunderbolt
-
-Kleavor @ Quick Claw
-Level: 66
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Swords Dance
-- Stone Axe
-- X Scissor
-- Agility
+- Bide
+- Sandstorm
 
 === TRAINER_MISTY_HNS ===
 Name: MISTY
@@ -8346,50 +8169,34 @@ Items: Full Restore / Full Restore
 Golduck
 Level: 62
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Aqua Tail
+- Surf
 - Psychic
-- Wonder Room
-- Cross Chop
+- Disable
+- Psych Up
 
 Quagsire @ Quick Claw
 Level: 62
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Muddy Water
+- Surf
 - Amnesia
 - Earthquake
 - Rain Dance
 
-Vaporeon @ Leftovers
-Level: 61
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Hydro Pump
-- Ice Beam
-- Acid Armor
-- Shadow Ball
-
-Milotic
-Level: 61
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Hydro Pump
-- Ice Beam
-- Rest
-- Sleep Talk
-
 Lapras @ Never Melt Ice
 Level: 62
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Hydro Pump
-- Ice Beam
+- Surf
+- Blizzard
 - Rain Dance
-- Reflect
+- Perish Song
 
 Starmie @ Mystic Water
 Level: 63
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Surf
-- Psychic
+- Confuse ray
 - Recover
-- Thunderbolt
+- Ice Beam
 
 === TRAINER_LTSURGE_HNS ===
 Name: LTSURGE
@@ -8402,53 +8209,45 @@ AI: Basic Trainer
 Items: Full Restore / Full Restore
 Mugshot: Yellow
 
-Electrode @ Focus Band
-Level: 57
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Shock Wave
-- Rain Dance
-- Thunder Wave
-- Explosion
-
-Magnezone
-Level: 59
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Thunder
-- Reflect
-- Rain Dance
-- Double Edge
-
-Lanturn @ Leftovers
-Level: 58
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Ion Deluge
-- Hydro Pump
-- Discharge
-- Confuse ray
-
-Manectric
-Level: 58
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Wild Charge
-- Charge
-- Crunch
-- Electric Terrain
-
-Electivire @ Scope Lens
-Level: 59
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Thunderbolt
-- Fire Punch
-- Ice Punch
-- Submission
-
 Raichu @ Magnet
 Level: 60
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Thunderbolt
 - Thunder
-- Rain Dance
-- Body Slam
-- Surf
+- Thunder Wave
+- Quick Attack
+
+Electrode
+Level: 57
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Screech
+- Double Team
+- Swift
+- Explosion
+
+Electrode
+Level: 57
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Screech
+- Double Team
+- Swift
+- Explosion
+
+Magneton
+Level: 59
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Zap Cannon
+- Lock On
+- Double Team
+- Swift
+
+Electabuzz @ Scope Lens
+Level: 59
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Thunder Punch
+- Light Screen
+- Quick Attack
+- Thunder
 
 === TRAINER_ERIKA_HNS ===
 Name: ERIKA
@@ -8461,53 +8260,37 @@ AI: Basic Trainer
 Mugshot: Green
 Items: Full Restore / Full Restore
 
+Tangela
+Level: 60
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Vine Whip
+- Bind
+- Giga Drain
+- Sleep Powder
+
 Jumpluff @ Focus Band
 Level: 61
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Acrobatics
-- U Turn
-- Sleep Powder
+- Mega Drain
 - Leech Seed
-
-Roserade
-Level: 60
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Synthesis
-- Grass Whistle
-- Toxic
-- Petal Dance
-
-Tangrowth
-Level: 60
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Power Whip
-- Wring Out
-- Grassy Terrain
-- Tickle
-
-Venusaur @ Leftovers
-Level: 61
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Sunny Day
-- Solar Beam
-- Sludge Bomb
-- Sleep Powder
+- Cotton Spore
+- Giga Drain
 
 Victreebel @ Poison Barb
 Level: 62
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Sludge Bomb
-- Leaf Blade
-- Swords Dance
-- Sleep Powder
+- Acid
+- Synthesis
+- Razor Leaf
+- Sunny Day
 
 Bellossom @ Miracle Seed
 Level: 62
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Petal Blizzard
-- Quiver Dance
-- Stun Spore
-- Attract
+- Petal Dance
+- Sunny Day
+- Synthesis
+- Solar Beam
 
 === TRAINER_SABRINA_HNS ===
 Name: SABRINA
@@ -8520,53 +8303,29 @@ AI: Basic Trainer
 Mugshot: Pink
 Items: Full Restore / Full Restore
 
-Mr Mime @ Quick Claw
-Level: 65
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Magical Leaf
-- Psychic
-- Substitute
-- Reflect
-
-Jynx
-Level: 64
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Psychic
-- Ice Beam
-- Lovely Kiss
-- Grass Knot
-
-Slowbro @ Chesto Berry
-Level: 64
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rest
-- Sleep Talk
-- Submission
-- Surf
-
-Wobbuffet @ Leftovers
-Level: 64
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Mirror Coat
-- Counter
-- Safeguard
-- Destiny Bond
-
 Espeon
 Level: 65
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Psychic
-- Morning Sun
-- Future Sight
-- Power Gem
+- Quick Attack
+- Sand Attack
+- Swift
+
+Mr Mime @ Quick Claw
+Level: 65
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Barrier
+- Reflect
+- Baton Pass
+- Psychic
 
 Alakazam @ Twisted Spoon
 Level: 66
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Shadow Ball
-- Psychic
 - Recover
-- Calm Mind
+- Psychic
+- Future Sight
+- Reflect
 
 === TRAINER_JANINE_HNS ===
 Name: JANINE
@@ -8579,53 +8338,45 @@ AI: Basic Trainer
 Mugshot: Purple
 Items: Full Restore / Full Restore
 
+Crobat
+Level: 63
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Wing Attack
+- Confuse Ray
+- Supersonic
+- Screech
+
 Weezing @ Leftovers
 Level: 63
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Sludge Bomb
-- Flamethrower
-- Belch
-- Amnesia
-
-Muk
-Level: 62
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Minimize
-- Gunk Shot
+- Smog
 - Toxic
-- Acid Armor
+- Explosion
 
-Swalot
-Level: 61
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Swallow
-- Stockpile
-- Amnesia
-- Spit Up
-
-Nidoqueen @ Quick Claw
-Level: 62
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Earthquake
-- Cross Poison
-- Thunder
-- Superpower
-
-Crobat
+Weezing @ Leftovers
 Level: 63
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Air Slash
-- Venoshock
+- Sludge Bomb
+- Smog
 - Toxic
-- Confuse Ray
+- Explosion
 
-Venomoth @ Bright Powder
-Level: 64
+Ariados
+Level: 62
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Signal Beam
-- Poison Fang
+- String Shot
+- Night Shade
+- Giga Drain
+- Scary Face
+
+Venomoth
+Level: 61
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Toxic
+- Psychic
 - Double Team
+- Supersonic
 
 === TRAINER_BLAINE_HNS ===
 Name: BLAINE
@@ -8638,53 +8389,29 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Full Restore / Full Restore
 
-Rapidash @ Quick Claw
-Level: 66
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Bounce
-- Sunny Day
-- Flare Blitz
-- Solar Beam
-
-Magmortar @ Sitrus Berry
-Level: 65
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Thunder Punch
-- Fire Blast
-- Psychic
-- Confuse Ray
-
-Houndoom @ Miracle Seed
-Level: 66
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Fire Blast
-- Sunny Day
-- Thunder Fang
-- Crunch
-
 Magcargo @ Leftovers
 Level: 65
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Flamethrower
-- Recover
-- Amnesia
-- Hypnosis
-
-Torkoal @ White Herb
-Level: 67
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Curse
-- Iron Defense
-- Withdraw
-- Heat Wave
+- Smog
+- Rock Slide
 
-Camerupt @ Charcoal
-Level: 67
+Rapidash @ Quick Claw
+Level: 66
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Earth Power
-- Eruption
-- Yawn
-- Amnesia
+- Quick Attack
+- Fury Attack
+- Fire Spin
+- Fire Blast
+
+Magmar 
+Level: 65
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Fire Punch
+- Thunder Punch
+- Sunny Day
+- Confuse Ray
 
 === TRAINER_BLUE_HNS ===
 Name: BLUE
@@ -8697,52 +8424,52 @@ AI: Basic Trainer
 Mugshot: Blue
 Items: Full Restore / Full Restore
 
+Pidgeot @ Sharp Beak
+Level: 68
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Wing Attack
+- Mirror Move
+- Quick Attack
+- Whirlwind
+
 Rhydon @ Sitrus Berry
 Level: 69
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Rock Slide
 - Earthquake
-- Rest
-- Toxic
+- Sandstorm
+- Fury Attack
 
-Pidgeot @ Sharp Beak
-Level: 68
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Fly
-- Sand Attack
-- Aerial Ace
-- Feather Dance
-
-Machamp @ Scope Lens
+Alakazam @ Scope Lens
 Level: 67
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Cross Chop
-- Rock Slide
-- Earthquake
-- Body Slam
+- Disable
+- Recover
+- Psychic
+- Reflect
 
 Exeggutor @ Leftovers
 Level: 68
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Leech Seed
-- Sleep Powder
-- Psychic
-- Giga Drain
+- Sunny Day
+- Solar Beam
+- Egg Bomb
 
-Tyranitar @ Focus Band
+Gyarados
 Level: 68
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rock Slide
-- Screech
-- Crunch
+- Twister
+- Hydro Pump
+- Rain Dance
 - Hyper Beam
 
 Arcanine @ Silk Scarf
 Level: 69
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Flamethrower
-- Agility
-- Crunch
+- Roar
+- Swift
 - Extreme Speed
 
 === TRAINER_BLUE_2_HNS ===
@@ -8815,43 +8542,43 @@ AI: Basic Trainer
 Mugshot: Pink
 Items: Full Restore / Full Restore
 
-Girafarig
+Xatu @ Twisted Spoon
 Level: 48
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Quick Attack
+- Future Sight
+- Confuse Ray
 - Psychic
-- Rock Smash
-- Agility
-- Baton Pass
 
-Slowking
+Exeggutor
+Level: 49
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Psychic
+- Egg Bomb
+- Reflect
+- Leech Seed
+
+Slowbro
 Level: 49
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Amnesia
-- Flamethrower
-- Surf
+- Body Slam
+- Curse
 - Psychic
 
-Espeon
-Level: 48
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Psychic
-- Shadow Ball
-- Reflect
-- Quick Attack
-
-Slowbro @ Quick Claw
+Jynx
 Level: 49
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Curse
-- Rock Smash
-- Body Slam
 - Psychic
+- Ice Punch
+- Double Slap
+- Lovely Kiss
 
 Xatu @ Twisted Spoon
 Level: 50
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Drill Peck
-- Rest
+- Quick Attack
+- Future Sight
 - Confuse Ray
 - Psychic
 
@@ -8925,43 +8652,43 @@ AI: Basic Trainer
 Mugshot: Orange
 Items: Full Restore / Full Restore
 
+Hitmontop
+Level: 52
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Quick Attack
+- Dig
+- Detect
+- Pursuit
+
 Hitmonchan @ Scope Lens
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mach Punch
-- Pursuit
-- Mega Punch
+- Ice Punch
+- Fire Punch
 - Thunder Punch
-
-Heracross
-Level: 52
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Reversal
-- Megahorn
-- Take Down
-- Earthquake
 
 Hitmonlee @ Silk Scarf
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Body Slam
-- Meditate
-- Reversal
+- Double Kick
+- Foresight
+- Swagger
 - Hi Jump Kick
 
-Steelix
+Onix
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Crunch
+- Sandstorm
 - Earthquake
 - Rock Slide
-- Iron Tail
+- Bind
 
 Machamp @ Black Belt
 Level: 54
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Slide
-- Fire Punch
+- Foresight
 - Vital Throw
 - Cross Chop
 
@@ -9039,41 +8766,41 @@ Umbreon @ Sitrus Berry
 Level: 54
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Faint Attack
-- Double Team
-- Baton Pass
-- Moonlight
+- Confuse Ray
+- Mean Look
+- Sand Attack
 
 Gengar
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Shadow Ball
-- Hypnosis
-- Dream Eater
-- Confuse Ray
+- Lick
+- Spite
+- Curse
+- Destiny Bond
 
 Vileplume @ Leftovers
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Sleep Powder
-- Giga Drain
-- Toxic
-- Substitute
+- Stun Spore
+- Petal Dance
+- Acid
+- Moonlight
 
 Murkrow @ Sharp Beak
 Level: 53
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Drill Peck
+- Whirlwind
 - Faint Attack
-- Steel Wing
-- Haze
+- Pursuit
+- Quick Attack
 
 Houndoom @ Black Glasses
 Level: 55
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 - Crunch
-- Iron Tail
-- Reversal
+- Roar
+- Pursuit
 
 === TRAINER_KAREN_2_HNS ===
 Name: KAREN
@@ -9148,42 +8875,42 @@ Items: Full Restore / Full Restore
 Ariados @ Kings Rock
 Level: 50
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Signal Beam
+- Spider Web
 - Giga Drain
 - Double Team
-- Toxic
+- Baton Pass
 
-Qwilfish
+Forretress
 Level: 51
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Surf
-- Toxic
+- Spikes
+- Explosion
 - Protect
-- Sludge Bomb
+- Swift
 
 Muk @ Leftovers
 Level: 50
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Minimize
-- Fire Blast
+- Acid Armor
 - Sludge Bomb
 - Toxic
 
 Venomoth
 Level: 51
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Leech Life
+- Gust
 - Psychic
-- Sludge Bomb
-- Sleep Powder
+- Toxic
+- Supersonic
 
 Crobat @ Bright Powder
 Level: 52
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 - Toxic
-- Bite
-- Confuse Ray
+- Wing Attack
+- Quick Attack
 
 === TRAINER_KOGA_2_HNS ===
 Name: KOGA
@@ -9258,48 +8985,48 @@ Mugshot: Blue
 Gyarados @ Leftovers
 Level: 54
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Waterfall
-- Dragon Dance
+- Rain Dance
+- Surf
 - Hyper Beam
-- Earthquake
+- Flail
 
 Dragonite @ Sitrus Berry
 Level: 55
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Twister
+- Thunder Wave
 - Blizzard
-- Fire Blast
-- Thunder
-- Swift
+- Hyper Beam
 
 Charizard @ Charcoal
 Level: 54
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 - Wing Attack
-- Double Team
-- Steel Wing
+- Slash
+- Hyper Beam
 
 Dragonite
 Level: 55
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fly
-- Dragon Claw
-- Waterfall
-- Dragon Dance
+- Twister
+- Thunder Wave
+- Thunder
+- Hyper Beam
 
 Aerodactyl @ Silk Scarf
 Level: 54
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Aerial Ace
-- Rock Slide
+- Ancient Power
 - Hyper Beam
-- Earthquake
+- Wing Attack
 
 Dragonite @ Sitrus Berry
 Level: 56
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Thunder
 - Safeguard
+- Fire Blast
 - Outrage
 - Hyper Beam
 
@@ -9451,6 +9178,13 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Potion
 
+Gastly
+Level: 15
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Hypnosis
+- Lick
+- Spite
+
 Zubat
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
@@ -9458,21 +9192,13 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Supersonic
 - Astonish
 
-Larvitar
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Bite
-- Leer
-- Screech
-- Sandstorm
-
 Bayleef
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Razor Leaf
 - Reflect
 - Poison Powder
-- Tackle
+- Growl
 
 === TRAINER_RIVAL_CHIKORITA_3_HNS ===
 Name: {B_RIVAL_NAME}
@@ -9485,37 +9211,37 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Super Potion
 
-Larvitar
+Haunter
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Bite
-- Rock Slide
-- Screech
-- Sandstorm
+- Lick
+- Spite
+- Mean Look
+- Curse
 
-Remoraid
-Level: 23
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Bubble Beam
-- Aurora Beam
-- Psybeam
-- Lock On
-
-Golbat
-Level: 22
+Zubat
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Bite
 - Supersonic
 - Leech Life
 - Wing Attack
 
+Magnemite
+Level: 21
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Tackle
+- Supersonic
+- Thunder Shock
+- Sonic Boom
+
 Bayleef
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Reflect
 - Razor Leaf
-- Tackle
-- Synthesis
+- Growl
+- Poison Powder
 
 === TRAINER_RIVAL_CHIKORITA_4_HNS ===
 Name: {B_RIVAL_NAME}
@@ -9528,44 +9254,44 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Hyper Potion
 
-Pupitar
-Level: 39
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Thrash
-- Rock Slide
-- Screech
-- Bite
-
-Houndoom
-Level: 39
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Flamethrower
-- Iron Tail
-- Bite
-- Double Team
-
-Octillery
-Level: 38
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Octazooka
-- Psybeam
-- Aurora Beam
-- Lock On
-
 Golbat
 Level: 39
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Toxic
-- Double Team
+- Bite
+- Leech Life
 - Confuse Ray
 - Wing Attack
+
+Magneton
+Level: 38
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Thunder Wave
+- Supersonic
+- Sparc
+- Sonic Boom
+
+Haunter
+Level: 39
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Shadow Ball
+- Lick
+- Curse
+- Mean Look
+
+Sneasel
+Level: 39
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Faint Attack
+- Leer
+- Quick Attack
+- Screech
 
 Meganium
 Level: 40
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Synthesis
+- Poison Powder
 - Razor Leaf
-- Sunny Day
+- Reflect
 - Body Slam
 
 === TRAINER_RIVAL_CHIKORITA_5_HNS ===
@@ -9579,53 +9305,53 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Hyper Potion
 
-Ursaring @ Chesto Berry
+Sneasel
 Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Slash
 - Faint Attack
-- Rock Smash
-- Rest
+- Fury Cutter
+- Quick Attack
+- Screech
 
 Golbat
 Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Toxic
-- Aerial Ace
-- Double Team
+- Wing Attack
 - Confuse Ray
-
-Octillery @ Quick Claw
-Level: 46
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Surf
-- Ice Beam
-- Psybeam
-- Hyper Beam
-
-Houndoom
-Level: 46
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Flamethrower
-- Iron Tail
 - Bite
-- Sunny Day
+- Leech Life
 
-Meganium @ Miracle Seed
+Magneton
+Level: 45
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Thunder Wave
+- Swift
+- Sparc
+- Sonic Boom
+
+Gengar
+Level: 45
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Shadow Ball
+- Confuse ray
+- Curse
+- Mean Look
+
+Alakazam
+Level: 45
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Recover
+- Future Sight
+- Psychic
+- Disable
+
+Meganium 
 Level: 47
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Sunny Day
-- Giga Drain
+- Poisonon Powder
+- Razor Leaf
 - Body Slam
-- Poison Powder
-
-Pupitar
-Level: 48
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Crunch
-- Earthquake
-- Rock Slide
-- Thrash
+- Reflect
 
 === TRAINER_RIVAL_CHIKORITA_6_HNS ===
 Name: {B_RIVAL_NAME}
@@ -9638,53 +9364,53 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Full Restore / Full Restore
 
-Ursaring @ Chesto Berry
+Sneasel
 Level: 64
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Tears
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Faint Attack
-- Rock Tomb
-- Rest
+- Fury Cutter
+- Quick Attack
+- Screech
 
-Crobat @ Leftovers
+Golbat
 Level: 64
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Aerial Ace
-- Toxic
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Wing Attack
+- Confuse Ray
 - Bite
-- Facade
+- Leech Life
 
-Octillery @ Never Melt Ice
+Magneton
 Level: 64
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Surf
-- Ice Beam
-- Psybeam
-- Hyper Beam
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Thunder Wave
+- Swift
+- Sparc
+- Sonic Boom
 
-Houndoom @ Charcoal
+Gengar
 Level: 64
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fire Blast
-- Iron Tail
-- Crunch
-- Sunny Day
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Shadow Ball
+- Confuse ray
+- Curse
+- Mean Look
 
-Meganium @ Miracle Seed
+Alakazam
 Level: 64
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Synthesis
-- Solar Beam
-- Giga Drain
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Recover
+- Future Sight
+- Psychic
+- Disable
+
+Meganium 
+Level: 64
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Poisonon Powder
+- Razor Leaf
 - Body Slam
-
-Tyranitar @ Quick Claw
-Level: 64
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Crunch
-- Earthquake
-- Rock Slide
-- Thrash
+- Light Screen
 
 === TRAINER_RIVAL_CHIKORITA_7_HNS ===
 Name: {B_RIVAL_NAME}
@@ -9697,53 +9423,53 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Full Restore / Full Restore
 
-Ursaring @ Chesto Berry
+Sneasel
 Level: 68
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Tears
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Faint Attack
-- Rock Tomb
-- Rest
+- Fury Cutter
+- Quick Attack
+- Screech
 
-Crobat @ Leftovers
+Crobat
 Level: 68
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Aerial Ace
-- Toxic
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Wing Attack
+- Confuse Ray
 - Bite
-- Facade
+- Toxic
 
-Octillery @ Never Melt Ice
+Magneton
 Level: 68
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Surf
-- Ice Beam
-- Psybeam
-- Hyper Beam
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Thunder Wave
+- Swift
+- Thunder
+- Sonic Boom
 
-Houndoom @ Charcoal
+Gengar
 Level: 68
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fire Blast
-- Iron Tail
-- Crunch
-- Sunny Day
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Shadow Ball
+- Confuse ray
+- Curse
+- Mean Look
 
-Meganium @ Miracle Seed
+Alakazam
 Level: 68
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Recover
+- Future Sight
+- Psychic
 - Reflect
-- Giga Drain
-- Solar Beam
-- Body Slam
 
-Tyranitar @ Quick Claw
+Meganium 
 Level: 68
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Crunch
-- Earthquake
-- Rock Slide
-- Thrash
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Safeguard
+- Giga Drain
+- Body Slam
+- Light Screen
 
 === TRAINER_RIVAL_CYNDAQUIL_1_HNS ===
 Name: ???
@@ -9770,20 +9496,19 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Potion
 
+Gastly
+Level: 15
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Hypnosis
+- Lick
+- Spite
+
 Zubat
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Leech Life
 - Supersonic
 - Astonish
-
-Larvitar
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Bite
-- Leer
-- Screech
-- Sandstorm
 
 Quilava
 Level: 18
@@ -9804,35 +9529,35 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Super Potion
 
-Larvitar
+Haunter
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Bite
-- Rock Slide
-- Screech
-- Sandstorm
+- Lick
+- Spite
+- Mean Look
+- Curse
 
-Weepinbell
-Level: 23
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Vine Whip
-- Growth
-- Sleep Powder
-- Stun Spore
-
-Golbat
-Level: 22
+Zubat
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Bite
 - Supersonic
 - Leech Life
 - Wing Attack
 
+Magnemite
+Level: 21
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Tackle
+- Supersonic
+- Thunder Shock
+- Sonic Boom
+
 Quilava
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Ember
-- Dig
+- Leer
 - Quick Attack
 - Smokescreen
 
@@ -9847,45 +9572,45 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Super Potion
 
-Pupitar
-Level: 39
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Thrash
-- Rock Slide
-- Scary Face
-- Bite
-
-Victreebel
-Level: 39
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Acid
-- Vine Whip
-- Sleep Powder
-- Growth
-
-Octillery
-Level: 38
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Octazooka
-- Psybeam
-- Aurora Beam
-- Lock On
-
 Golbat
 Level: 39
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Toxic
-- Double Team
+- Bite
+- Leech Life
 - Confuse Ray
 - Wing Attack
+
+Magneton
+Level: 38
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Thunder Wave
+- Supersonic
+- Sparc
+- Sonic Boom
+
+Haunter
+Level: 39
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Shadow Ball
+- Lick
+- Curse
+- Mean Look
+
+Sneasel
+Level: 39
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Faint Attack
+- Leer
+- Quick Attack
+- Screech
 
 Typhlosion
 Level: 40
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Thunder Punch
-- Flamethrower
+- Ember
+- Flame Wheel
 - Quick Attack
-- Brick Break
+- Smoke Screen
 
 === TRAINER_RIVAL_CYNDAQUIL_5_HNS ===
 Name: {B_RIVAL_NAME}
@@ -9898,53 +9623,53 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Hyper Potion
 
-Ursaring @ Chesto Berry
+Sneasel
 Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Slash
 - Faint Attack
-- Rock Smash
-- Rest
+- Fury Cutter
+- Quick Attack
+- Screech
 
 Golbat
 Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Toxic
-- Aerial Ace
-- Double Team
+- Wing Attack
 - Confuse Ray
+- Bite
+- Leech Life
 
-Octillery @ Quick Claw
-Level: 46
+Magneton
+Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Surf
-- Ice Beam
-- Psybeam
-- Hyper Beam
+- Thunder Wave
+- Swift
+- Sparc
+- Sonic Boom
 
-Victreebel
-Level: 46
+Gengar
+Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Sludge Bomb
-- Giga Drain
-- Sleep Powder
-- Growth
+- Shadow Ball
+- Confuse ray
+- Curse
+- Mean Look
+
+Alakazam
+Level: 45
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Recover
+- Future Sight
+- Psychic
+- Disable
 
 Typhlosion @ Charcoal
 Level: 47
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Flamethrower
+- Ember
+- Flame Wheel
 - Quick Attack
-- Brick Break
-- Thunder Punch
-
-Pupitar
-Level: 48
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Crunch
-- Earthquake
-- Rock Slide
-- Thrash
+- Smoke Screen
 
 === TRAINER_RIVAL_CYNDAQUIL_6_HNS ===
 Name: {B_RIVAL_NAME}
@@ -9957,53 +9682,54 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Full Restore / Full Restore
 
-Ursaluna Bloodmoon @ Chesto Berry
+Sneasel
 Level: 64
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Tears
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Faint Attack
-- Rock Tomb
-- Rest
+- Fury Cutter
+- Quick Attack
+- Screech
 
-Crobat @ Leftovers
+Golbat
 Level: 64
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Aerial Ace
-- Toxic
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Wing Attack
+- Confuse Ray
 - Bite
-- Facade
+- Leech Life
 
-Octillery @ Never Melt Ice
+Magneton
+Level: 64
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Thunder Wave
+- Swift
+- Sparc
+- Sonic Boom
+
+Gengar
+Level: 64
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Shadow Ball
+- Confuse ray
+- Curse
+- Mean Look
+
+Alakazam
+Level: 64
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Recover
+- Future Sight
+- Psychic
+- Disable
+
+Typhlosion 
 Level: 64
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Surf
-- Ice Beam
-- Psybeam
-- Hyper Beam
+- Swift
+- Smoke Screen
+- Quick Attack
+- Flame Wheel
 
-Victreebel @ Scope Lens
-Level: 64
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Sludge Bomb
-- Razor Leaf
-- Sleep Powder
-- Growth
-
-Typhlosion @ Charcoal
-Level: 64
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fire Blast
-- Earthquake
-- Brick Break
-- Thunder Punch
-
-Tyranitar @ Quick Claw
-Level: 64
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Crunch
-- Earthquake
-- Rock Slide
-- Scary Face
 
 === TRAINER_RIVAL_CYNDAQUIL_7_HNS ===
 Name: {B_RIVAL_NAME}
@@ -10016,53 +9742,53 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Full Restore / Full Restore
 
-Ursaring @ Chesto Berry
+Sneasel
 Level: 68
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Tears
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Faint Attack
-- Rock Tomb
-- Rest
+- Fury Cutter
+- Quick Attack
+- Screech
 
-Crobat @ Leftovers
+Crobat
 Level: 68
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Aerial Ace
-- Toxic
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Wing Attack
+- Confuse Ray
 - Bite
-- Facade
+- Toxic
 
-Octillery @ Never Melt Ice
+Magneton
 Level: 68
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Surf
-- Ice Beam
-- Psybeam
-- Hyper Beam
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Thunder Wave
+- Swift
+- Thunder
+- Sonic Boom
 
-Victreebel @ Scope Lens
+Gengar
 Level: 68
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Razor Leaf
-- Sludge Bomb
-- Sleep Powder
-- Growth
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Shadow Ball
+- Confuse ray
+- Curse
+- Mean Look
+
+Alakazam
+Level: 68
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Recover
+- Future Sight
+- Psychic
+- Reflect
 
 Typhlosion @ Charcoal
 Level: 68
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fire Blast
-- Earthquake
-- Brick Break
-- Thunder Punch
-
-Tyranitar @ Quick Claw
-Level: 68
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Crunch
-- Earthquake
-- Rock Slide
-- Scary Face
+- Swift
+- Smoke Screen
+- Quick Attack
 
 === TRAINER_RIVAL_TOTODILE_1_HNS ===
 Name: ???
@@ -10089,20 +9815,19 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Potion
 
+Gastly
+Level: 15
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Hypnosis
+- Lick
+- Spite
+
 Zubat
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Leech Life
 - Supersonic
 - Astonish
-
-Larvitar
-Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Bite
-- Leer
-- Screech
-- Sandstorm
 
 Croconaw
 Level: 18
@@ -10123,35 +9848,35 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Super Potion
 
-Larvitar
+Haunter
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Bite
-- Rock Slide
-- Screech
-- Sandstorm
+- Lick
+- Spite
+- Mean Look
+- Curse
 
-Houndour
-Level: 23
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Ember
-- Howl
-- Smog
-- Roar
-
-Golbat
-Level: 22
+Zubat
+Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Bite
 - Supersonic
 - Leech Life
 - Wing Attack
 
+Magnemite
+Level: 21
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Tackle
+- Supersonic
+- Thunder Shock
+- Sonic Boom
+
 Croconaw
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Bite
-- Ice Punch
+- Leer
 - Water Gun
 - Rage
 
@@ -10166,43 +9891,43 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Super Potion
 
-Pupitar
+PGolbat
 Level: 39
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Thrash
-- Rock Slide
-- Screech
 - Bite
-
-Weepinbell
-Level: 39
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Acid
-- Vine Whip
-- Sleep Powder
-- Growth
-
-Houndoom
-Level: 38
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Flamethrower
-- Iron Tail
-- Bite
-- Double Team
-
-Golbat
-Level: 39
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Toxic
-- Double Team
+- Leech Life
 - Confuse Ray
 - Wing Attack
+
+Magneton
+Level: 38
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Thunder Wave
+- Supersonic
+- Sparc
+- Sonic Boom
+
+Haunter
+Level: 39
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Shadow Ball
+- Lick
+- Curse
+- Mean Look
+
+Sneasel
+Level: 39
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Faint Attack
+- Leer
+- Quick Attack
+- Screech
 
 Feraligatr
 Level: 40
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Ice Punch
-- Surf
+- Water Gun
+- Scary Face
 - Slash
 - Bite
 
@@ -10217,53 +9942,53 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Hyper Potion
 
-Ursaring @ Chesto Berry
+Sneasel
 Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Slash
 - Faint Attack
-- Rock Tomb
-- Rest
+- Fury Cutter
+- Quick Attack
+- Screech
 
 Golbat
 Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Toxic
-- Aerial Ace
-- Double Team
+- Wing Attack
 - Confuse Ray
-
-Victreebel @ Quick Claw
-Level: 46
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Sludge Bomb
-- Giga Drain
-- Sleep Powder
-- Growth
-
-Houndoom
-Level: 46
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Flamethrower
-- Iron Tail
 - Bite
-- Double Team
+- Leech Life
 
-Feraligatr @ Mystic Water
+Magneton
+Level: 45
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Thunder Wave
+- Swift
+- Sparc
+- Sonic Boom
+
+Gengar
+Level: 45
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Shadow Ball
+- Confuse ray
+- Curse
+- Mean Look
+
+Alakazam
+Level: 45
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Recover
+- Future Sight
+- Psychic
+- Disable
+
+Feraligatr
 Level: 47
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Ice Punch
-- Surf
-- Slash
 - Bite
-
-Pupitar
-Level: 48
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Crunch
-- Earthquake
-- Rock Slide
-- Thrash
+- Water Gun
+- Slash
+- Scary Face
 
 === TRAINER_RIVAL_TOTODILE_6_HNS ===
 Name: {B_RIVAL_NAME}
@@ -10276,52 +10001,52 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Full Restore / Full Restore
 
-Ursaring @ Chesto Berry
+Sneasel
 Level: 64
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Tears
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Faint Attack
-- Rock Tomb
-- Rest
+- Fury Cutter
+- Quick Attack
+- Screech
 
-Crobat @ Leftovers
+Golbat
 Level: 64
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Aerial Ace
-- Toxic
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Wing Attack
 - Confuse Ray
-- Facade
+- Bite
+- Leech Life
 
-Victreebel @ Scope Lens
+Magneton
 Level: 64
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Sludge Bomb
-- Razor Leaf
-- Sleep Powder
-- Growth
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Thunder Wave
+- Swift
+- Sparc
+- Sonic Boom
 
-Houndoom @ Charcoal
+Gengar
 Level: 64
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fire Blast
-- Iron Tail
-- Crunch
-- Double Team
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Shadow Ball
+- Confuse ray
+- Curse
+- Mean Look
+
+Alakazam
+Level: 64
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Recover
+- Future Sight
+- Psychic
+- Disable
 
 Feraligatr @ Scope Lens
 Level: 64
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Ice Beam
-- Surf
+- Bite
+- Water Gun
 - Slash
-- Earthquake
-
-Tyranitar @ Quick Claw
-Level: 64
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Crunch
-- Earthquake
-- Rock Slide
 - Scary Face
 
 === TRAINER_RIVAL_TOTODILE_7_HNS ===
@@ -10335,53 +10060,53 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Full Restore / Full Restore
 
-Ursaring @ Chesto Berry
+Sneasel
 Level: 68
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Tears
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Faint Attack
-- Rock Tomb
-- Rest
+- Fury Cutter
+- Quick Attack
+- Screech
 
-Crobat @ Leftovers
+Crobat
 Level: 68
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Aerial Ace
-- Toxic
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Wing Attack
+- Confuse Ray
 - Bite
-- Facade
+- Toxic
 
-Victreebel @ Scope Lens
+Magneton
 Level: 68
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Razor Leaf
-- Sludge Bomb
-- Sleep Powder
-- Growth
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Thunder Wave
+- Swift
+- Thunder
+- Sonic Boom
 
-Houndoom @ Charcoal
+Gengar
 Level: 68
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fire Blast
-- Iron Tail
-- Crunch
-- Double Team
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Shadow Ball
+- Confuse ray
+- Curse
+- Mean Look
+
+Alakazam
+Level: 68
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Recover
+- Future Sight
+- Psychic
+- Reflect
 
 Feraligatr @ Scope Lens
 Level: 68
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Ice Beam
+- Rain Dance
 - Surf
 - Slash
-- Earthquake
-
-Tyranitar @ Quick Claw
-Level: 68
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Crunch
-- Earthquake
-- Rock Slide
-- Scary Face
+- Screech
 
 === TRAINER_RED_2_HNS ===
 Name: RED
@@ -10397,49 +10122,49 @@ Pikachu-Starter @ Light Ball
 Level: 93
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunderbolt
-- Dig
-- Iron Tail
-- Double Team
+- Thunder
+- Quick Attack
+- Charm
 
 Snorlax @ Leftovers
 Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Amnesia
-- Curse
+- Snore
 - Body Slam
-- Earthquake
+- Rest
 
 Charizard @ Charcoal
 Level: 77
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fire Blast
-- Aerial Ace
-- Outrage
-- Steel Wing
+- Flamethrower
+- Fire Spin
+- Slash
+- Wing Attack
 
 Venusaur @ Miracle Seed
 Level: 77
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sunny Day
 - Giga Drain
-- Body Slam
-- Sleep Powder
-- Leech Seed
+- Solar Beam
+- Synthesis
 
 Blastoise @ Quick Claw
 Level: 77
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Ice Beam
-- Hydro Pump
-- Body Slam
-- Earthquake
+- Rain Dance
+- Surf
+- Blizzard
+- Whirlpool
 
 Espeon @ Sitrus Berry
 Level: 80
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psychic
-- Shadow Ball
-- Hidden Power
-- Morning Sun
+- Reflect
+- Mud Slap
+- Swift
 
 === TRAINER_EUSINE_HNS ===
 Name: EUSINE
@@ -10487,6 +10212,14 @@ AI: Basic Trainer
 Mugshot: Dark Red
 Items: Full Restore / Full Restore
 
+Nidoking
+Level: 62
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunder Punch
+- Earthquake
+- Rock Slide
+- Thrash
+
 Kangaskhan
 Level: 60
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -10510,30 +10243,6 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sludge Bomb
 - Surf
 - Body Slam
-
-Persian
-Level: 61
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Faint Attack
-- Swagger
-- Screech
-- Slash
-
-Ursaring
-Level: 60
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Earthquake
-- Slash
-- Faint Attack
-- Double Edge
-
-Nidoking
-Level: 62
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Thunder Punch
-- Earthquake
-- Rock Slide
-- Thrash
 
 === TRAINER_PROTON_1_HNS ===
 Name: PROTON
