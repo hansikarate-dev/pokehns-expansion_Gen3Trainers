@@ -23,7 +23,7 @@ Double Battle: No
 AI: Check Bad Move
 
 Koffing
-Level: 28@ Sitrus Berry
+Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Raichu
@@ -7180,7 +7180,7 @@ Pidgey
 Level: 8
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Tackle
-- Sand-Attack
+- Sand Attack
 
 Pidgeotto 
 Level: 11
@@ -9363,7 +9363,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 Meganium 
 Level: 47
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Poisonon Powder
+- Poison Powder
 - Petal Dance
 - Synthesis
 - Reflect
@@ -10156,7 +10156,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Charizard
 Level: 77
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Blast Burning
+- Blast Burn
 - Flare Blitz
 - Air Slash
 - Dragon Pulse

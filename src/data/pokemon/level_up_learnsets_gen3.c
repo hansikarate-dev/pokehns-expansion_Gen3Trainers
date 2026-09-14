@@ -2,7 +2,7 @@
 #include "pokemon.h"
 #include "constants/species.h"
 
-#include "level_up_learnsets/gen_3.h"
+#include "level_up_learnsets/gen_4.h"
 
 const struct LevelUpMove *const gLevelUpLearnsets_Gen3[NUM_SPECIES] = {
 #if P_FAMILY_BULBASAUR
