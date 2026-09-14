@@ -10127,7 +10127,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Aqua Tail
 - Crunch
 
-=== TRAINER_RED_2_HNS ===
+=== TRAINER_RED_HNS ===
 Name: RED
 Class: Pkmn Trainer 1 Hns
 Pic: Red Hns
@@ -10145,6 +10145,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Quick Attack
 - Iron Tail
 
+<<<<<<< HEAD
 Snorlax
 Level: 75
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
@@ -15365,7 +15366,7 @@ Items: Full Restore / Full Restore
 
 Gardevoir @ Light Clay  
 Ability: Trace  
-Level: 72 
+Level: 74 
 IVs: 0 Atk  
 - Psyshock  
 - Moonblast  
@@ -15374,7 +15375,7 @@ IVs: 0 Atk
 
 Jynx @ Never-Melt Ice  
 Ability: Dry Skin  
-Level: 72 
+Level: 75 
 IVs: 0 Atk  
 - Lovely Kiss  
 - Sweet Kiss  
@@ -15383,7 +15384,7 @@ IVs: 0 Atk
 
 Slowking-Galar @ Black Sludge  
 Ability: Own Tempo  
-Level: 72 
+Level: 76 
 IVs: 0 Atk  
 - Eerie Spell  
 - Trick Room  
@@ -15392,7 +15393,7 @@ IVs: 0 Atk
 
 Grumpig @ Leftovers  
 Ability: Thick Fat  
-Level: 72  
+Level: 77  
 IVs: 0 Atk  
 - Teeter Dance  
 - Power Gem  
@@ -15401,7 +15402,7 @@ IVs: 0 Atk
 
 Slowbro  
 Ability: Oblivious  
-Level: 72  
+Level: 77  
 - Fire Punch  
 - Curse  
 - Earthquake  
@@ -15409,7 +15410,7 @@ Level: 72
 
 Xatu  
 Ability: Magic Bounce  
-Level: 72 
+Level: 79 
 IVs: 0 Atk  
 - Future Sight  
 - Air Slash  
@@ -15429,7 +15430,7 @@ Items: Full Restore / Full Restore
 
 Clodsire  
 Ability: Water Absorb  
-Level: 72 
+Level: 74 
 - Toxic Spikes  
 - Earthquake  
 - Gunk Shot  
@@ -15437,7 +15438,7 @@ Level: 72
 
 Overqwil @ Black Sludge  
 Ability: Poison Point  
-Level: 72
+Level: 75
 - Barb Barrage  
 - Lash Out  
 - Swords Dance  
@@ -15445,7 +15446,7 @@ Level: 72
 
 Ariados @ Blunder Policy  
 Ability: Sniper  
-Level: 72
+Level: 76
 EVs: 252 Spe  
 Jolly Nature  
 - Sticky Web  
@@ -15455,7 +15456,7 @@ Jolly Nature
 
 Nidoking @ Life Orb  
 Ability: Sheer Force  
-Level: 72   
+Level: 77   
 IVs: 0 Atk  
 - Fire Blast  
 - Ice Beam  
@@ -15464,7 +15465,7 @@ IVs: 0 Atk
 
 Venomoth @ Bright Powder  
 Ability: Shield Dust  
-Level: 72  
+Level: 77  
 IVs: 0 Atk  
 - Venoshock  
 - Bug Buzz  
@@ -15473,7 +15474,7 @@ IVs: 0 Atk
 
 Crobat  
 Ability: Inner Focus  
-Level: 72  
+Level: 79  
 - Acrobatics  
 - Cross Poison  
 - Toxic  
@@ -15492,7 +15493,7 @@ Items: Full Restore / Full Restore
 
 Steelix @ Assault Vest  
 Ability: Rock Head  
-Level: 72 
+Level: 74 
 EVs: 252 SpD  
 Sassy Nature  
 - Heavy Slam  
@@ -15502,7 +15503,7 @@ Sassy Nature
 
 Tauros-Paldea-Blaze  
 Ability: Intimidate  
-Level: 72 
+Level: 75 
 - Raging Bull  
 - Close Combat  
 - Rock Slide  
@@ -15510,7 +15511,7 @@ Level: 72
 
 Heracross @ Loaded Dice  
 Ability: Moxie  
-Level: 72 
+Level: 76 
 - Pin Missile  
 - Close Combat  
 - Earthquake  
@@ -15518,7 +15519,7 @@ Level: 72
 
 Hariyama @ Sitrus Berry  
 Ability: Thick Fat  
-Level: 72  
+Level: 77  
 - Fake Out  
 - Belly Drum  
 - Cross Chop  
@@ -15526,7 +15527,7 @@ Level: 72
 
 Hitmontop @ Expert Belt  
 Ability: Technician  
-Level: 72 
+Level: 77 
 - Triple Kick  
 - Victory Dance  
 - Bullet Punch  
@@ -15534,7 +15535,7 @@ Level: 72
 
 Machamp @ Flame Orb  
 Ability: Guts  
-Level: 72  
+Level: 79  
 - Facade  
 - Cross Chop  
 - Earthquake  
@@ -15553,7 +15554,7 @@ Items: Full Restore / Full Restore
 
 Umbreon @ Black Glasses  
 Ability: Synchronize  
-Level: 72  
+Level: 74  
 IVs: 0 Atk  
 - Lunar Blessing  
 - Foul Play  
@@ -15562,7 +15563,7 @@ IVs: 0 Atk
 
 Weavile @ Razor Claw  
 Ability: Pressure  
-Level: 73  
+Level: 75  
 - Hone Claws  
 - Night Slash  
 - Icicle Crash  
@@ -15570,7 +15571,7 @@ Level: 73
 
 Persian-Alola @ Charcoal  
 Ability: Fur Coat  
-Level: 74 
+Level: 76 
 - Fake Out  
 - Dark Pulse  
 - Nasty Plot  
@@ -15578,7 +15579,7 @@ Level: 74
 
 Honchkrow  
 Ability: Moxie  
-Level: 72 
+Level: 77 
 - Night Slash  
 - Brave Bird  
 - Roost  
@@ -15586,7 +15587,7 @@ Level: 72
 
 Obstagoon @ Flame Orb  
 Ability: Guts  
-Level: 72 
+Level: 77 
 - Close Combat  
 - Double-Edge  
 - Fling  
@@ -15594,7 +15595,7 @@ Level: 72
 
 Houndoom  
 Ability: Unnerve  
-Level: 72  
+Level: 79  
 - Fire Blast  
 - Crunch  
 - Iron Tail  
@@ -15613,7 +15614,7 @@ Mugshot: Blue
 
 Salamence @ Assault Vest  
 Ability: Intimidate  
-Level: 75 
+Level: 77 
 - Draco Meteor  
 - Iron Head  
 - Double-Edge  
@@ -15621,7 +15622,7 @@ Level: 75
 
 Gyarados @ Eject Button  
 Ability: Intimidate  
-Level: 75 
+Level: 77 
 - Waterfall  
 - Hyper Beam  
 - Crunch  
@@ -15629,7 +15630,7 @@ Level: 75
 
 Charizard  
 Ability: Blaze  
-Level: 75 
+Level: 78 
 - Fire Blast  
 - Earthquake  
 - Acrobatics  
@@ -15637,7 +15638,7 @@ Level: 75
 
 Noivern @ Silk Scarf  
 Ability: Infiltrator  
-Level: 75 
+Level: 78 
 IVs: 0 Atk  
 - Boomburst  
 - Dragon Pulse  
@@ -15646,7 +15647,7 @@ IVs: 0 Atk
 
 Aerodactyl @ Scope Lens  
 Ability: Rock Head  
-Level: 75
+Level: 79
 - Rock Slide  
 - Earthquake  
 - Sky Attack  
@@ -15654,7 +15655,7 @@ Level: 75
 
 Dragonite @ Leftovers  
 Ability: Multiscale  
-Level: 75 
+Level: 79 
 - Iron Head  
 - Fire Punch  
 - Dragon Rush  
@@ -15680,7 +15681,7 @@ Level: 95
 
 Snorlax @ Chesto Berry  
 Ability: Immunity  
-Level: 81
+Level: 85
 - Belly Drum  
 - Earthquake  
 - Rest  
@@ -15688,7 +15689,7 @@ Level: 81
 
 Charizard  
 Ability: Blaze  
-Level: 83  
+Level: 87  
 - Fire Blast  
 - Seismic Toss  
 - Outrage  
@@ -15696,7 +15697,7 @@ Level: 83
 
 Venusaur @ Blunder Policy  
 Ability: Chlorophyll  
-Level: 84  
+Level: 87  
 Tera Type: Grass  
 EVs: 252 Spe  
 IVs: 0 Atk  
@@ -15707,7 +15708,7 @@ IVs: 0 Atk
 
 Blastoise @ Leftovers  
 Ability: Torrent  
-Level: 82
+Level: 86
 - Hydro Cannon  
 - Skull Bash  
 - Ice Beam  
@@ -15715,7 +15716,7 @@ Level: 82
 
 Tauros-Paldea-Combat @ Sitrus Berry  
 Ability: Cud Chew  
-Level: 81  
+Level: 85  
 Tera Type: Fighting  
 - Raging Bull  
 - Wild Charge  
