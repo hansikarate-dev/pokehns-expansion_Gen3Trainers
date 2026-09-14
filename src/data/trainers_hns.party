@@ -8053,7 +8053,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 Kingdra @ Sitrus Berry
 Level: 45
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Smoke Screen
+- Smokescreen
 - Hydro Pump
 - Hyper Beam
 - Dragon Pulse
@@ -9531,7 +9531,7 @@ Quilava
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Leer
-- Smoke Screen
+- Smokescreen
 - Ember
 - Quick Attack
 
@@ -9576,7 +9576,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Flame Wheel
 - Ember
 - Quick Attack
-- Smoke Screen
+- Smokescreen
 
 === TRAINER_RIVAL_CYNDAQUIL_4_HNS ===
 Name: {B_RIVAL_NAME}
@@ -9627,7 +9627,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Swift
 - Flame Wheel
 - Quick Attack
-- Smoke Screen
+- Smokescreen
 
 === TRAINER_RIVAL_CYNDAQUIL_5_HNS ===
 Name: {B_RIVAL_NAME}
@@ -10403,7 +10403,7 @@ Level: 39
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Self Destruct
 - Smog
-- Smoke Screen
+- Smokescreen
 - Sludge Bomb
 
 Tauros
@@ -13425,7 +13425,7 @@ Ability: Sniper
 Level: 64 
 IVs: 0 Atk  
 - Dragon Pulse  
-- Smoke Screen  
+- Smokescreen  
 - Brine  
 - Focus Energy  
 
